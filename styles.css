@@ -1,0 +1,126 @@
+/*-----------------------------------------------*/
+/* BASIC SETUP*/
+/*-----------------------------------------------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+html,
+body {
+    font-family: 'Merriweather', serif;
+    color: #3d4852;
+    font-weight: 400;
+    text-rendering: optimizeLegibility; 
+    height: 100vh;
+    background-color: #dae1e7;
+}
+
+/*-----------------------------------------------*/
+/* HEADINGS*/
+/*-----------------------------------------------*/
+
+h1 {
+    font-size: 650%;
+    margin-left: 111px;
+}
+
+.buzz {
+    color: #6cb2eb;
+    display: inline-block;
+    font-weight: 300;
+    font-size: 50%;
+    transform: translateX(-111px) translateY(50px);
+    -webkit-transform: translateX(-111px) translateY(50px);
+    -moz-transform: translateX(-111px) translateY(50px);
+    -ms-transform: translateX(-111px) translateY(50px);
+    -o-transform: translateX(-111px) translateY(50px);
+}
+
+.title {
+    padding: 35px 0 110px 0;
+}
+
+.center {
+    text-align: center;
+}
+
+h2 {
+    font-size: 19px;
+    margin-bottom: 23px;
+}
+
+/*-----------------------------------------------*/
+/* INPUT BOX*/
+/*-----------------------------------------------*/
+
+.input-box {
+    margin: 0 auto;
+    height: 35vh;
+    width: 50vh;
+    background-color: #fff;
+    padding: 32px;
+    box-shadow: 0 15px 30px 0 rgba(0,0,0,.11), 0 5px 15px 0 rgba(0,0,0,.08);
+    border-radius:5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    -ms-border-radius:5px;
+    -o-border-radius:5px;
+}
+
+.input-box_label {
+    display: block;    
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.input-box_input {
+    width: 90%;
+    text-align: center; 
+    padding: 5px;
+    color: #3d4852;
+    font-size: 17px;
+    border: 1px solid #dae1e7;
+}
+
+.input-box_input:focus {
+    outline: none;
+    border-color: #6cb2eb;
+}
+
+.input-box_results {
+    margin: 20px 0; 
+}
+
+.input-box_results-box {
+    padding: 10px; 
+}
+
+.input-box_button {
+    color: #fff;
+    background-color: #6cb2eb;
+    text-transform: uppercase;
+    border: 1px solid #dae1e7;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding: 16px;
+    font-size: 18px;
+}
+
+.input-box_button:hover,
+.input-box_button:active {
+    cursor: pointer;
+    background-color: #3490dc;
+}
+
+.input-box_button:focus { outline: none; }
+
+.answer { font-size: 20px; }
+
