@@ -29,7 +29,7 @@ function fizzBuzz(input) {
     else if (input %5 === 0)
         answer.textContent ='Buzz';
 
-    // not divisble by 3 or 5, returns the same input
+    // not divisble by 3 or 5, nothing happens
     else
         answer.textContent ='Hey come on, be serious, give me a better number!';
 }
