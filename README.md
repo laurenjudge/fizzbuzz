@@ -1,4 +1,6 @@
+************
 FizzBuzz Rules: 
+************
 
 1. Input any number 
 
