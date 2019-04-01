@@ -9,3 +9,13 @@ FizzBuzz Rules:
 4. If divisible by both 3 and 5, returns 'FizzBuzz' 
 
 5. If not divisble by 3 or 5, asks for a better number
+
+************
+Screenshots
+************
+
+![](screenshots/1.png)
+
+![](screenshots/2.png)
+
+![](screenshots/3.png)
