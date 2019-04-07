@@ -1,4 +1,8 @@
-# FizzBuzz Rules: 
+# About
+
+This project is an interactive UI for the programming task 'fizzbuzz'
+
+## FizzBuzz Rules: 
 
 1. Input any number 
 
@@ -10,6 +14,6 @@
 
 5. If not divisble by 3 or 5, asks for a better number
 
-## View live
+### View live
 
 http://fizzbuzz-app.s3-website-ap-southeast-2.amazonaws.com/
