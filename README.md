@@ -1,6 +1,4 @@
-************
-FizzBuzz Rules: 
-************
+# FizzBuzz Rules: 
 
 1. Input any number 
 
@@ -12,12 +10,6 @@ FizzBuzz Rules:
 
 5. If not divisble by 3 or 5, asks for a better number
 
-************
-Screenshots
-************
+## View live
 
-![](screenshots/1.png)
-
-![](screenshots/2.png)
-
-![](screenshots/3.png)
+http://fizzbuzz-app.s3-website-ap-southeast-2.amazonaws.com/
